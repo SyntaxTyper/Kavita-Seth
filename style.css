@@ -1,0 +1,120 @@
+body {
+  font-family: "Ubuntu";
+}
+h1 {
+   color: #243A73;
+   font-size: 60px;
+}
+strong {
+  color: #7C3E66;
+}
+.intro-subtitle {
+    color: #F2EBE9;
+    font-size: 30px;
+}
+
+.tr:hover {
+  background-color: #99A799;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.table {
+   border-collapse: separate;
+   border-spacing: 20px;
+   font-size: 20px;
+   color: #243A73;
+}
+.first:hover {
+  border-bottom: 2pt solid #F2EBE9;
+}
+.second:hover {
+  border-bottom: 2pt solid #F2EBE9;
+}
+.third:hover {
+  border-bottom: 2pt solid #F2EBE9;
+}
+.quote {
+  background-color: #F2EBE9;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+a {
+  color: #243A73;
+  text-decoration: none;
+}
+p {
+  color: #243A73;
+  font-size: 30px;
+}
+/* thank-you */
+.thank-you {
+  padding: 12px 5px;
+  background-color: #7C3E66;
+}
+h2 {
+  font-size: 40px;
+  color: #F2EBE9;
+}
+.tr {
+  font-size: 30px;
+  color: #A5BECC;
+}
+.tr:hover {
+  background-color: #F2EBE9;
+}
+.balloon {
+  height: 100px;
+  width: 100px;
+}
+/* end */
+.end {
+  padding: 10px;
+  padding-top: 20px;
+  background-color: #243A73;
+}
+.p-end {
+  color: #F2EBE9;
+  font-size: 20pt;
+}
+.quote2 {
+  background-color: #F2EBE9;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-bottom: 20%;
+}
+.birthday {
+  background-color: #7C3E66;
+  padding-bottom: 10%;
+}
+/* navbar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.5rem;
+}
+#title {
+  background-color: #A5BECC;
+}
+#titlequote {
+  background-color: #F2EBE9;
+}
+#titlebirthday {
+  padding-bottom: 20%;
+  background-color: #7C3E66;
+}
+.birthdaymain {
+  font-family: "Ubuntu";
+}
+.Quotes {
+  font-family: "Ubuntu";
+}
